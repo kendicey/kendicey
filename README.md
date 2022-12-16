@@ -1,5 +1,5 @@
 #Hi there 👋 
-#This is Kendice, a student in the PDD ICT program in Douglas College, CA.
+#Kendice is a student in the PDD ICT program in Douglas College, CA.
 #🌱 learning C#, HTML, CSS, JavaScript
 
 <!--
