@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there 👋 
+This is Kendice, a student in the PDD ICT program in Douglas College, CA.
+🌱 learning C#, HTML, CSS, JavaScript
 
 <!--
 **kendicey/kendicey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
